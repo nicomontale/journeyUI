@@ -5,7 +5,7 @@ import {gs, colors} from '../../../styles';
 export default function About() {
     return (
         <View style={styles.container}>
-            <Text style={gs.sectionTitle}>ABOUT ME</Text>
+            <Text style={gs.sectionTitle}>Profilo</Text>
             <Text style={styles.about}>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa.
              Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, 
              quando un anonimo tipografo prese una cassetta di caratteri e 
